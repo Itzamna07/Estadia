@@ -1,1 +1,3 @@
+Extracción de Datos de PeerRead a CSV
 
+Este proyecto se centra en la obtención de datos de archivos JSON proporcionados por PeerRead y su posterior transformación en un formato de archivo CSV. PeerRead es una plataforma que ofrece conjuntos de datos académicos y este proyecto específico aborda la tarea de procesar esos datos para facilitar su análisis y manipulación.
